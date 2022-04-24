@@ -1,0 +1,36 @@
+# A collection of commonly used terms.
+#
+# Please add new terms in alphabetical order.
+
+## Structure
+## ```typescript
+## type Term {
+##   // Slugified word. Must be unique. Assigned to `slugify(term)` if unspecified.
+##   id: string;
+##   // The term in our glossary
+##   term: string;
+##   // Description of the term in Markdown. Converted to HTML during build.
+##   description?: string;
+##   // Optional acronym form.
+##   acronym?: string;
+##   // Optional path to a page in our docs. The title will be set automatically.
+##   see?: string;
+##   // List of external links
+##   links?: {title: string; url: string}[];
+## }
+## ```
+
+## Example
+## ```yaml
+## - term: Test Driven Development
+##   description: A software development process ...
+##   acronym: TDD
+##   see: /path/to/a-page/
+##   links:
+##     - title: Test-driven Development (Wikipedia)
+##       url: https://en.wikipedia.org/wiki/Test-driven_development
+## ```
+
+- term: work-on-sundays
+  description: |
+    I don't work on Sundays as part of my personal efforts to keep the Sabbath day holy.

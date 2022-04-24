@@ -2,9 +2,12 @@ I'm going to tell you why I am starting this blog. That's not because I think yo
 
 Let me start by telling you what a typical Sunday has looked like for me recently. After researching
     <a href="#" data-toggle="tooltip" data-original-title="{{site.glossary.work-on-sundays}}">
-until just before midnight</a> on Saturday night, I watch a few episodes of Japanese anime to relax. I don't have many opportunities to speak Japanese, and so watching anime helps me think in Japanese more often and <a href="#" data-toggle="tooltip" data-original-title="I served as a representative of Jesus Christ as a full-time missionary for two years in Japan from 2013 to 2015.">
-connect me back to a people and culture that I love</a>. In the morning, we study <a href="https://www.churchofjesuschrist.org/study/scriptures?lang=eng&platform=web" data-toggle="tooltip" data-original-title="">
-scriptures</a> together as a family. V and I each read one column of a page, and do some wrangling/entertainment for N while the other is reading. After reading (and discussing depending on how we're all doing), we
+until just before midnight</a> on Saturday night, I watch a few episodes of Japanese anime to relax. I don't have many opportunities to speak Japanese, and so watching anime helps me think in Japanese more often and <!-- <a href="#" data-toggle="tooltip" data-original-title="I served as a representative of Jesus Christ as a full-time missionary for two years in Japan from 2013 to 2015.">
+connect me back to a people and culture that I love</a>. -->
+[connect me back to a people and culture that I love](# "I served as a representative of Jesus Christ as a full-time missionary for two years in Japan from 2013 to 2015.")
+ In the morning, we study <!-- <a href="https://www.churchofjesuschrist.org/study/scriptures?lang=eng&platform=web" data-toggle="tooltip" data-original-title=""> scriptures</a> -->
+[scriptures](https://www.churchofjesuschrist.org/study/scriptures?lang=eng&platform=web "")
+together as a family. V and I each read one column of a page, and do some wrangling/entertainment for N while the other is reading. After reading (and discussing depending on how we're all doing), we
     <a href="" data-toggle="tooltip" data-original-title="Prayer is a conversation with God, during which we can express gratitude and ask for help and guidance in our lives.">
 pray</a> together. I head back to sleep until I'm up to get ready to attend our church services. Sometimes we leave together as a family and sometimes V leaves earlier, in which case I meet up with V and N at our church building nearby.
 
@@ -16,3 +19,5 @@ general conference</a>. One of the speakers at church today, an engineering stud
 President Nelson's</a> recent general conference address on [_The Power of Spiritual Momentum_](https://www.churchofjesuschrist.org/study/general-conference/2022/04/47nelson) resonated with him. This talk stuck out to me as well, as I considered the "direction" and "speed" with which I (the "mass") am headed spiritually. An encouraging thought came to mind - if I set my direction correctly, no matter how fast or slowly I am progressing, eventually I will reach my "mokuteki" (goal) and "ikisaki" (destination).
 
 As I listened to the talks of the most recent general conference (held April 2-3, 2022), I felt inspired to start a blog; as I considered further what I might write about, I realized that there are three distinct aspects of my life that are of utmost importance to me: my faith in Jesus Christ, my family, and my goal to make a positive impact on the world through scientific innovation. Hence the name: "Faith, Family, and Science".
+
+[abc](abc "This is a tooltip")

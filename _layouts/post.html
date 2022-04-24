@@ -16,15 +16,6 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>
       {%- endif -%}</p>
   </header>
-  
-  <script src="https://utteranc.es/client.js"
-        repo="sgbaird/faith-family-science"
-        issue-term="pathname"
-        label="comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-  </script>
 
   <div class="share-links">
     {% include sharelinks.html %}
@@ -34,6 +25,15 @@ layout: default
     {{ content }}
     {% include navlinks.html %}
   </div>
+  
+  <script src="https://utteranc.es/client.js"
+        repo="sgbaird/faith-family-science"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+  </script>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

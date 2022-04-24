@@ -1,7 +1,7 @@
 I'm going to tell you why I am starting this blog. That's not because I think you need to know, but because I think it will help you know what to expect.
 
 Let me start by telling you what a typical Sunday has looked like for me recently. After researching
-    <a href="#" data-toggle="tooltip" data-original-title={{site.glossary.work-on-sundays}}>
+    <a href="#" data-toggle="tooltip" data-original-title="{{site.glossary.work-on-sundays}}">
 until just before midnight</a> on Saturday night, I watch a few episodes of Japanese anime to relax. I don't have many opportunities to speak Japanese, and so watching anime helps me think in Japanese more often and <a href="#" data-toggle="tooltip" data-original-title="I served as a representative of Jesus Christ as a full-time missionary for two years in Japan from 2013 to 2015.">
 connect me back to a people and culture that I love</a>. In the morning, we study <a href="https://www.churchofjesuschrist.org/study/scriptures?lang=eng&platform=web" data-toggle="tooltip" data-original-title="">
 scriptures</a> together as a family. V and I each read one column of a page, and do some wrangling/entertainment for N while the other is reading. After reading (and discussing depending on how we're all doing), we

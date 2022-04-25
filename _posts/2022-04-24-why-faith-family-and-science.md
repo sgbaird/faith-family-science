@@ -19,5 +19,3 @@ general conference</a>. One of the speakers at church today, an engineering stud
 President Nelson's</a> recent general conference address on [_The Power of Spiritual Momentum_](https://www.churchofjesuschrist.org/study/general-conference/2022/04/47nelson) resonated with him. This talk stuck out to me as well, as I considered the "direction" and "speed" with which I (the "mass") am headed spiritually. An encouraging thought came to mind - if I set my direction correctly, no matter how fast or slowly I am progressing, eventually I will reach my "mokuteki" (goal) and "ikisaki" (destination).
 
 As I listened to the talks of the most recent general conference (held April 2-3, 2022), I felt inspired to start a blog; as I considered further what I might write about, I realized that there are three distinct aspects of my life that are of utmost importance to me: my faith in Jesus Christ, my family, and my goal to make a positive impact on the world through scientific innovation. Hence the name: "Faith, Family, and Science".
-
-[abc](abc "This is a tooltip")

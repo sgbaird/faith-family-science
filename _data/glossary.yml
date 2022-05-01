@@ -31,6 +31,6 @@
 ##       url: https://en.wikipedia.org/wiki/Test-driven_development
 ## ```
 
-- term: work-on-sundays
-  description: |
-    I don't work on Sundays as part of my personal efforts to keep the Sabbath day holy.
+- term: work on Sundays
+  definition: I don't work on Sundays as part of my personal efforts to keep the Sabbath day holy.
+  url: https://www.churchofjesuschrist.org/comeuntochrist/belong/sunday-services/3-ways-to-keep-the-sabbath-day-holy

@@ -100,5 +100,3 @@ world through scientific innovation. Hence the name: "Faith, Family, and Science
   visibility: visible;
 }
 </style>
-
-<!-- {% glossary work on Sundays %} -->

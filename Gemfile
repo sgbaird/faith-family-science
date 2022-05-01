@@ -8,3 +8,5 @@ gem "jekyll-glossary_tooltip", "~> 1.4", :group => :jekyll_plugins
 gem "minima"
 gem "jekyll-sitemap"
 gem "jekyll-feed"
+
+gem "webrick", "~> 1.7"

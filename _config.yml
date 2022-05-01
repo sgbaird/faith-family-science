@@ -29,7 +29,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-glossary_tooltip
+  # - jekyll-glossary_tooltip
 
 titles_from_headings:
   strip_title: true

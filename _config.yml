@@ -29,6 +29,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-relative-links
   # - jekyll-glossary_tooltip
 
 titles_from_headings:

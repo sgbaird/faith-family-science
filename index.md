@@ -3,7 +3,7 @@
 ⛪ I am a member of [The Church of Jesus Christ of Latter-day
 Saints](https://www.churchofjesuschrist.org/).
 
-👪 I am married to a fun, practical,
+👨‍👩‍👦 I am married to a fun, practical,
 hilarious, and spunky mechanical engineer 🔧 who I will refer to as V. We have a small
 kiddo 👶 that is learning, growing, and exploring the world, who I will refer to as N.
 

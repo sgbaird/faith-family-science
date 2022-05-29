@@ -108,35 +108,25 @@ world through scientific innovation. Hence the name: "Faith, Family, and Science
 }
 </style>
 
-[sabbath-day]:
-    https://www.churchofjesuschrist.org/comeuntochrist/belong/sunday-services/3-ways-to-keep-the-sabbath-day-holy
+[sabbath-day]: https://www.churchofjesuschrist.org/comeuntochrist/belong/sunday-services/3-ways-to-keep-the-sabbath-day-holy
 
-[missionary]:
-    https://www.churchofjesuschrist.org/comeuntochrist/belong/share-goodness/10-things-to-know-about-missionaries
+[missionary]: https://www.churchofjesuschrist.org/comeuntochrist/belong/share-goodness/10-things-to-know-about-missionaries
 
-[scriptures]:
-    https://www.churchofjesuschrist.org/comeuntochrist/believe/overview-series/scriptures
+[scriptures]: https://www.churchofjesuschrist.org/comeuntochrist/believe/overview-series/scriptures
 
-[prayer]:
-    https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/prayer-in-the-book-of-mormon
+[prayer]: https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/prayer-in-the-book-of-mormon
 
-[prayer-2]:
-    https://www.churchofjesuschrist.org/comeuntochrist/believe/god/10-meaniningful-benefits-of-prayer
+[prayer-2]: https://www.churchofjesuschrist.org/comeuntochrist/believe/god/10-meaniningful-benefits-of-prayer
 
-[church]:
-    https://www.churchofjesuschrist.org/comeuntochrist/belong/sunday-services/what-to-expect-at-church
+[church]: https://www.churchofjesuschrist.org/comeuntochrist/belong/sunday-services/what-to-expect-at-church
 
-[church-2]:
-    https://www.churchofjesuschrist.org/comeuntochrist/belong/sunday-services/what-are-sunday-services-like
+[church-2]: https://www.churchofjesuschrist.org/comeuntochrist/belong/sunday-services/what-are-sunday-services-like
 
-[bishop]:
-    https://www.churchofjesuschrist.org/comeuntochrist/belong/a-place-for-everyone/a-church-of-volunteers
+[bishop]: https://www.churchofjesuschrist.org/comeuntochrist/belong/a-place-for-everyone/a-church-of-volunteers
 
-[general-conference]:
-    https://www.churchofjesuschrist.org/comeuntochrist/article/general-conference-gods-word-for-today
+[general-conference]: https://www.churchofjesuschrist.org/comeuntochrist/article/general-conference-gods-word-for-today
 
-[prophet]:
-    https://www.churchofjesuschrist.org/comeuntochrist/believe/restoration/god-speaks-to-us-through-prophets
+[prophet]: https://www.churchofjesuschrist.org/comeuntochrist/believe/restoration/god-speaks-to-us-through-prophets
 
 <!-- Code Graveyard -->
 <!-- [until just before midnight](# "I don't work on Sundays as part of my

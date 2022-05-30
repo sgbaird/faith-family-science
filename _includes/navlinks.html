@@ -1,7 +1,7 @@
 <hr>
 <div class="post_navi">
   {%- if page.previous.url -%}
-  <a class="post_navi-item nav_prev" href="{{ site.baseurl }}{{ page.previous.url }}" title="{{ page.previous.title }}">
+  <a class="post_navi-item nav_prev" href="{{ site.baseurl }}{{ page.next.url }}" title="{{ page.next.title }}">
     <div class="post_navi-arrow">&lt;</div>
     <div class="post_navi-label">Previous Post</div>
     <div><span>{{ page.previous.title }}</span></div>
@@ -14,7 +14,7 @@
   </a>
   {%- endif -%}
   {%- if page.next.url -%}
-  <a class="post_navi-item nav_next" href="{{ site.baseurl }}{{ page.next.url }}" title="{{ page.next.title }}">
+  <a class="post_navi-item nav_next" href="{{ site.baseurl }}{{ page.previous.url }}" title="{{ page.previous.title }}">
     <div class="post_navi-arrow">&gt;</div>
     <div class="post_navi-label">Next Post</div>
     <div><span>{{ page.next.title }}</span></div>

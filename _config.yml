@@ -42,3 +42,5 @@ defaults:
       type: posts
     values:
       tags: Other
+
+baseurl: /faith-family-science

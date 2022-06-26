@@ -17,13 +17,11 @@ At church today, at the start of
 mind. As I mentioned in a previous post, I've been thinking about the idea of robotic
 gardening and shared the following thoughts during the lesson:
 
-- There's very little that I've put into practice or started experimenting with
-- While I've enjoyed the idea of gardening automation, I believe that actually getting
-  started will be even more rewarding than just thinking about it, and that's when it
-  begins to have a more tangible impact on my life and the people I associate with
-- An excerpt from the Bible reads "be ye doers of the word, and not hearers only".
-  Similar to the example of gardening automation, a deeper joy and fulfillment comes
-  from putting into practice the teachings and doctrines of Jesus Christ
+- There is very little that I've put into practice or started really experimenting with.
+- I enjoy the idea of gardening automation, but actually getting
+  started will probably be even more rewarding
+- "be ye doers of the word, and not hearers only" ([James 1:22](https://www.churchofjesuschrist.org/study/scriptures/nt/james/1?lang=eng&id=22-25#p22))
+- A deeper joy and fulfillment comes from putting into practice the teachings and doctrines of Jesus Christ
 
 If you've read [another post of
 mine](https://sgbaird.github.io/faith-family-science/2022/05/01/why-faith.html), it will
@@ -82,7 +80,7 @@ it, and we're seriously considering purchasing one within the next couple years
 
 <center><img src="https://sgbaird.github.io/faith-family-science/assets/img/farmbot.jpg"
 width=600 alt="FarmBot Express image from https://farm.bot/pages/express"></center>
-<center><sup>(<a href=https://farm.bot/pages/express>source</a>)</sup></center>
+<center><sup>(<a href="https://farm.bot/pages/express">source</a>)</sup></center>
 
 [elders-quorum]: https://www.churchofjesuschrist.org/comeuntochrist/belong/a-place-for-everyone/elders-quorum
 

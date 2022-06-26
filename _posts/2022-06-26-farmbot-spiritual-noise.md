@@ -14,8 +14,10 @@ At church today, at the start of
     </span>
 </span><sup>[1][elders-quorum]</sup>
 , the instructor opened the floor for people to share questions that have been on their
-mind. As I mentioned in a previous post, I've been thinking about the idea of robotic
-gardening and shared the following thoughts during the lesson:
+mind. As I [mentioned in a previous
+post](https://sgbaird.github.io/faith-family-science/2022/05/29/science.html), I've been
+thinking about the idea of automated gardening. While it might not seem immediately
+related to a spiritual discussion, here are some of the thoughts and connections that I shared.
 
 - There is very little that I've put into practice or started really experimenting with.
 - I enjoy the idea of gardening automation, but actually getting

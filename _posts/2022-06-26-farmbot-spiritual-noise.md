@@ -39,7 +39,7 @@ shared:
   time?
 - The efforts might result in (at least a perceived) failure. What if I get started, and
   this is the case?
-- What if others might think or act negatively in response to my actions? (in the case
+- What if others think or act negatively in response to my actions? (in the case
   of gardening, theft/vandalism of the equipment is a real possibility, while in the
   case of missionary work, I worry about becoming a [social
   pariah](https://www.google.com/search?q=social+pariah), losing friendships and
@@ -72,9 +72,9 @@ divisive topics. Noticing parallels with
 </span>
 anyone?
 
-Circling back a bit, I was reading a a [hackaday post about a
+[Circling back a bit](https://sgbaird.github.io/faith-family-science/2022/05/29/science.html), I was reading a a [hackaday post about a
 TacoBot](https://hackaday.com/2022/06/22/an-impressively-functional-tacobot/) which led
-me to another post about [FarmBot](https://farm.bot/). I've been talking with V about
+me to another post about [FarmBot](https://farm.bot/) (!) I've been talking with V about
 it, and we're seriously considering purchasing one within the next couple years
 👩‍🌾🌾🌱🍃🌿🌳🍅.
 

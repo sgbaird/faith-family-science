@@ -120,7 +120,7 @@ width=450 alt="FarmBot Express image from https://farm.bot/pages/express">
 
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 120px;
+  width: 360px;
   background-color: black;
   color: #fff;
   text-align: center;

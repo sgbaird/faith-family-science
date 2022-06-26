@@ -80,7 +80,7 @@ it, and we're seriously considering purchasing one within the next couple years
 
 <center><img src="https://sgbaird.github.io/faith-family-science/assets/img/farmbot.jpg"
 width=600 alt="FarmBot Express image from https://farm.bot/pages/express"></center>
-<center><sup>(<a href="https://farm.bot/pages/express">source</a>)</sup></center>
+<center><sup>FarmBot Express (<a href="https://farm.bot/pages/express">source</a>)</sup></center>
 
 [elders-quorum]: https://www.churchofjesuschrist.org/comeuntochrist/belong/a-place-for-everyone/elders-quorum
 

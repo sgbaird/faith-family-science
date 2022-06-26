@@ -50,7 +50,7 @@ shared:
 Recently, I felt impressed to [post on
 Twitter](https://twitter.com/SterlingBaird1/status/1540516208046247936):
 
-<img src=https://sgbaird.github.io/faith-family-science/assets/img/twitter-post-abortion.png alt="Not meant to🌬️🔥, but if you're interested, these are my and The Church of Jesus Christ
+<img src="https://sgbaird.github.io/faith-family-science/assets/img/twitter-post-abortion.png" alt="Not meant to🌬️🔥, but if you're interested, these are my and The Church of Jesus Christ
 of Latter-day Saints' views in the context of the recent US Supreme Court ruling
 https://newsroom.churchofjesuschrist.org/article/churchs-position-on-abortion" width=300>
 

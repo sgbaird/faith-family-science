@@ -80,12 +80,11 @@ me to another post about [FarmBot](https://farm.bot/). I've been talking with V 
 it, and we're seriously considering purchasing one within the next couple years
 👩‍🌾🌾🌱🍃🌿🌳🍅.
 
-<img src="https://sgbaird.github.io/faith-family-science/assets/img/farmbot.jpg"
-width=450 alt="FarmBot Express image from https://farm.bot/pages/express">
-<sup>([source][farmbot])</sup>
+<center><img src="https://sgbaird.github.io/faith-family-science/assets/img/farmbot.jpg"
+width=600 alt="FarmBot Express image from https://farm.bot/pages/express"></center>
+<center><sup>(<a href=https://farm.bot/pages/express>source</a>)</sup></center>
 
 [elders-quorum]: https://www.churchofjesuschrist.org/comeuntochrist/belong/a-place-for-everyone/elders-quorum
-[farmbot]: https://farm.bot/pages/express
 
 <!-- TOOLTIP TEMPLATE -->
 <!--

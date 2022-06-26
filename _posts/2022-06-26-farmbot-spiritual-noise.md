@@ -3,14 +3,14 @@
 At church today, at the start of
 <span class="tooltip"> elders quorum
     <span class="tooltiptext">
-        In addition to the group worship that happens during Sunday services, every
+        "In addition to the group worship that happens during Sunday services, every
         congregation of the Church has an organization for men called the elders quorum.
         The name comes from the Bible, where men who served in the priesthood were often
         referred to as elders. A quorum is another word for a group of people united by
         a shared purpose. In the case of the elders quorum, that purpose is to come
         together and help each other serve as better sons, brothers, husbands, fathers,
         and members of the community. Members also work together to fulfill
-        congregational assignments, build unity, and learn about Jesus.
+        congregational assignments, build unity, and learn about Jesus." [(source)][elders-quorum]
     </span>
 </span><sup>[1][elders-quorum]</sup>
 , the instructor opened the floor for people to share questions that have been on their
@@ -127,7 +127,7 @@ width=600 alt="FarmBot Express image from https://farm.bot/pages/express"></cent
   z-index: 1;
   bottom: 150%;
   left: 50%;
-  margin-left: -60px;
+  margin-left: -180px;
 }
 
 .tooltip .tooltiptext::after {
@@ -142,6 +142,7 @@ width=600 alt="FarmBot Express image from https://farm.bot/pages/express"></cent
 }
 
 .tooltip:hover .tooltiptext {
+  font-size: 12px;
   visibility: visible;
 }
 </style>
